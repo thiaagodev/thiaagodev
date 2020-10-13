@@ -1,9 +1,9 @@
 <p align="center">
   <img src="./.github/dino-chrome.gif" width="px">
    <br><br>
-  <samp>
+  <strong>
     👋 Olá, meu nome é Thiago, sou um Desenvolvedor web.
-  </samp>
+  </strong>
 </p>
 
 <p align="center" style="text-align: center;">
