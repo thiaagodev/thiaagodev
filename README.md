@@ -17,13 +17,15 @@
     <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"  width="20 "height="20"/>
 </p>
 
-<br><br>
+<br>
 
 <p align="center" style="text-decoration: none;">
     <strong>
         <a href="https://github.com/thiaagodev/thiaagodev/blob/master/README-pt-br.md">Veja em Português</a>
     </strong>
 </p>
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&theme=dark&count_private=true" alt="thiaagodev" />
