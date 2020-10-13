@@ -10,8 +10,10 @@
     I am studying and trying to improve my skills in web development with Stack Javascript (NodeJS, ReactJS and React Native), also using Typescript in my current projects.
 </p>
 
-<p aling="align="center" style="text-align: center;">
-    <b><a href="https://github.com/thiaagodev/thiaagodev/blob/master/README-pt-br.md">Veja em Português</a></b>
+<p aling="center" style="text-align: center;">
+    <strong>
+        <a href="https://github.com/thiaagodev/thiaagodev/blob/master/README-pt-br.md">Veja em Português</a>
+    </strong>
 </p>
 
 <p align="center">
