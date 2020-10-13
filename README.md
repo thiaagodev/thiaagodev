@@ -1,9 +1,9 @@
 <p align="center">
   <img src="./.github/dino-chrome.gif" width="px">
    <br><br>
-  <main>
+  <samp>
     👋 Olá, meu nome é Thiago, sou um Desenvolvedor web.
-  </main>
+  </samp>
 </p>
 
 <p align="center" style="text-align: center;">
@@ -19,6 +19,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&count_private=true" alt="thiaagodev" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev" alt="thiaagodev" />
 </p>
 
 <p align="center">
