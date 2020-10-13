@@ -2,12 +2,12 @@
   <img src="./.github/dino-chrome.gif" width="px">
    <br><br>
   <strong>
-    👋 Hello, my name is Thiago, I am a web developer.
+    👋 Olá, meu nome é Thiago, sou um Desenvolvedor web.
   </strong>
 </p>
 
 <p align="center" style="text-align: center;">
-    I am studying and trying to improve my skills in web development with Stack Javascript (NodeJS, ReactJS and React Native), also using Typescript in my current projects.
+    Estou estudando e tentando aprimorar minhas habilidades no desenvolvimento web com a Stack Javascript (NodeJS, ReactJS e React Native), utilizando também Typescript nos meus projetos atuais.
 </p>
 
 <p align="center">
@@ -28,4 +28,4 @@
 <p align="center">
  <a href="https://twitter.com/thiaagodev" target="blank">
    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/thiaagodev" height="20" width="20" />
- </a>
+</a>
