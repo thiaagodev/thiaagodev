@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev" alt="thiaagodev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev&theme=dark" alt="thiaagodev" />
 </p>
 
 <p align="center">
