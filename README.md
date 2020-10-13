@@ -10,6 +10,10 @@
     I am studying and trying to improve my skills in web development with Stack Javascript (NodeJS, ReactJS and React Native), also using Typescript in my current projects.
 </p>
 
+<p aling="center" style="text-aling: center; text-decoration: none">
+    <a href="https://github.com/thiaagodev/thiaagodev/blob/master/README-pt-br.md">Veja em Português</a>
+</p>
+
 <p align="center">
     <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="20 "height="20"/>
     <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"  width="20 "height="20"/>
