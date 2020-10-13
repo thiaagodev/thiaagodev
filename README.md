@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="text-align: center;">
-    Estou estudando e tentando me aprimorar no desenvolvimento web com a Stack Javascript (NodeJS, ReactJS e React Native), utilizando também Typescript nos meus projetos atuais.
+    Estou estudando e tentando aprimorar minhas habilidades no desenvolvimento web com a Stack Javascript (NodeJS, ReactJS e React Native), utilizando também Typescript nos meus projetos atuais.
 </p>
 
 <p align="center">
