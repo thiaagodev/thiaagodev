@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&count_private=true" alt="thiaagodev" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&theme=onedark&count_private=true" alt="thiaagodev" />
 </p>
 
 <p align="center">
