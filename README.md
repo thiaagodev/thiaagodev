@@ -2,12 +2,16 @@
   <img src="./.github/dino-chrome.gif" width="px">
    <br><br>
   <strong>
-    👋 Hello, my name is Thiago, I am a web developer.
+    👋 Hello, my name is Thiago, I am a Developer.
   </strong>
 </p>
 
 <p align="center" style="text-align: center;">
-    I am studying and trying to improve my skills in web development with Stack Javascript (NodeJS, ReactJS and React Native), also using Typescript in my current projects.
+    I am studying and trying to improve my skills as a developer, I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript, even studying front end and mobile technologies, my preference is the backend with NodeJS and Typescript .
+</p>
+
+<p align="center" style="text-align: center;">
+  In addition to these technologies, I have knowledge in SQL database and basic knowledge of non-relational database with MongoDB.
 </p>
 
 <p align="center">
