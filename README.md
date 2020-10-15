@@ -1,8 +1,6 @@
 # Thiago Ferreira
 
-<p align="center">
-  <img src="./.github/dino-chrome.gif" width="px">
-</p>
+Systems development student.
 
   I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript. In addition to these            technologies, I have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 
