@@ -2,7 +2,7 @@
 
 Lover of web and mobile development.
 
-  I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript. I also have knowledge in SQL database and basic knowledge in non-relational database with MongoDB, even studying Full Stack, my focus is Backend.
+  I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript. I also have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 
 <p align="center">
     <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="20 "height="20"/>
