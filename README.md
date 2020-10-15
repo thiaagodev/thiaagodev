@@ -12,7 +12,7 @@ Lover of web and mobile development.
 </p>
 
 <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&theme=dark&count_private=true" alt="thiaagodev" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev&theme=dark" alt="thiaagodev" />
 </p>
 
 <p align="center">
