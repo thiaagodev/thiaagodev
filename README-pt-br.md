@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="text-align: center;">
-    Estou estudando e tentando aprimorar minhas habilidades como desenvolvedor, atualmente estou estudando e utilizando as tecnologias relacionadas a javascript,   como, NodeJS, ReactJS, React Native e Typescript, estudo todas essas tecnologias, porém, tenho preferência em programar no ambiente de backend com NodeJS e Typescript. Além dessas tecnologias, tenho conhecimento em banco de dados SQL e conhecimento básico de banco de dados não relacional com MongoDB.
+    Estou estudando e tentando aprimorar minhas habilidades como desenvolvedor, atualmente estou estudando e utilizando em meus projetos as tecnologias relacionadas a javascript,   como, NodeJS, ReactJS, React Native e Typescript, estudo todas essas tecnologias, porém, tenho preferência em programar no ambiente de backend com NodeJS e Typescript. Além dessas tecnologias, tenho conhecimento em banco de dados SQL e conhecimento básico de banco de dados não relacional com MongoDB.
 </p>
 
 <p align="center">
