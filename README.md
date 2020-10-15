@@ -7,11 +7,11 @@
 </p>
 
 <p align="center" style="text-align: center;">
-    I am studying and trying to improve my skills as a developer, I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript, even studying front end and mobile technologies, my preference is the backend with NodeJS and Typescript .
+    I am a developer in constant study, improving my skills every day. I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript.
 </p>
 
 <p align="center" style="text-align: center;">
-  In addition to these technologies, I have knowledge in SQL database and basic knowledge of non-relational database with MongoDB.
+  In addition to these technologies, I have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 </p>
 
 <p align="center">
