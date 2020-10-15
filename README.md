@@ -2,7 +2,7 @@
   <img src="./.github/dino-chrome.gif" width="px">
 </p>
 
-<p align="left" style="text-align: center; text-indent: 30px;">
+<p align="left" style="text-align: center; text-indent: 1.5em;">
     I am a developer in constant study, improving my skills every day. I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript. In addition to these technologies, I have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 </p>
 
