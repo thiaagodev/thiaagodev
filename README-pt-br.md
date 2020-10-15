@@ -2,7 +2,7 @@
   <img src="./.github/dino-chrome.gif" width="px">
    <br><br>
   <strong>
-    👋 Olá, meu nome é Thiago, sou um Desenvolvedor web.
+    👋 Olá, meu nome é Thiago, sou um Desenvolvedor.
   </strong>
 </p>
 
