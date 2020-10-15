@@ -2,11 +2,11 @@
   <img src="./.github/dino-chrome.gif" width="px">
 </p>
 
-<p align="center" style="text-align: center;">
+<p align="left" style="text-align: center;">
     I am a developer in constant study, improving my skills every day. I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript.
 </p>
 
-<p align="center" style="text-align: center;">
+<p align="left" style="text-align: center;">
   In addition to these technologies, I have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 </p>
 
