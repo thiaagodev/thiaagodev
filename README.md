@@ -2,7 +2,7 @@
 
 Systems development student.
 
-  I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript. In addition to these            technologies, I have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
+  I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript. I also have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 
 <p align="center">
     <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="20 "height="20"/>
