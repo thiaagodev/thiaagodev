@@ -1,9 +1,5 @@
 <p align="center">
   <img src="./.github/dino-chrome.gif" width="px">
-   <br><br>
-  <strong>
-    👋 Hello, my name is Thiago, I am a Developer.
-  </strong>
 </p>
 
 <p align="center" style="text-align: center;">
@@ -23,19 +19,11 @@
 
 <br>
 
-<p align="center" style="text-decoration: none;">
-    <strong>
-        <a href="https://github.com/thiaagodev/thiaagodev/blob/master/README-pt-br.md">Veja em Português</a>
-    </strong>
-</p>
-
-<br>
-
-<p>
+<p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&theme=dark&count_private=true" alt="thiaagodev" />
 </p>
 
-<p>
+<p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev&theme=dark" alt="thiaagodev" />
 </p>
 
