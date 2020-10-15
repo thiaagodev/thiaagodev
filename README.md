@@ -1,6 +1,6 @@
 # Thiago Ferreira
 
-Systems development student.
+Lover of web and mobile development
 
   I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript. I also have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 
