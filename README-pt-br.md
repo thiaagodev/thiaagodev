@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="text-align: center;">
-    Estou estudando e tentando aprimorar minhas habilidades como desenvolvedor, atualmente estou estudando e utilizando as tecnologias relacionadas a javascript,   como, NodeJS, ReactJS, React Native e Typescript, estudo todas essas tecnologias, porém, minha preferência é o backend com NodeJS e Typescript.
+    Estou estudando e tentando aprimorar minhas habilidades como desenvolvedor, atualmente estou estudando e utilizando tecnologias relacionadas a Javascript,   como, NodeJS, ReactJS, React Native e Typescript, mesmo estudando tecnologias de front end e mobile, minha preferência é o backend com NodeJS e Typescript.
 </p>
 
 <p align="center" style="text-align: center;">
