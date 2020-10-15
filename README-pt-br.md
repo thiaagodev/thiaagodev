@@ -7,11 +7,11 @@
 </p>
 
 <p align="center" style="text-align: center;">
-    Sou um desenvolvedor em constante estudo, aprimorando minhas habilidades a cada dia. Atualmente estou estudando e utilizando tecnologias relacionadas a Javascript, como, NodeJS, ReactJS, React Native e Typescript, mesmo estudando tecnologias de front end e mobile, minha preferência é o backend com NodeJS e Typescript.
+    Sou um desenvolvedor em constante estudo, aprimorando minhas habilidades a cada dia. Atualmente estou estudando e utilizando tecnologias relacionadas a Javascript, como, NodeJS, ReactJS, React Native e Typescript.
 </p>
 
 <p align="center" style="text-align: center;">
-   Além dessas tecnologias, tenho conhecimento em banco de dados SQL e conhecimento básico de banco de dados não relacional com MongoDB.
+   Além dessas tecnologias, tenho conhecimento em banco de dados SQL e conhecimento básico em banco de dados não relacional com MongoDB.
 </p>
 
 <p align="center">
