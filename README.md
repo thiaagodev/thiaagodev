@@ -3,7 +3,7 @@
 </p>
 
 <p align="left" style="text-align: center;">
-   &ensp; I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript. In addition to these         technologies, I   have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
+  &ensp; &ensp; I am currently studying and using technologies related to Javascript, such as, NodeJS, ReactJS, React Native and Typescript. In addition to these             technologies, I have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
 </p>
 
 <p align="center">
