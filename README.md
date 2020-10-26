@@ -1,6 +1,6 @@
 # Thiago Ferreira
 
-Lover of web and mobile development.
+Backend developer Nodejs.
 
 <p align="left">
  <a href="https://twitter.com/thiaagodev" target="blank">
@@ -16,7 +16,11 @@ Lover of web and mobile development.
   </a>
 </p>
 
-  I am currently studying and using technologies related to Javascript, such as NodeJS, ReactJS, React Native and Typescript. I also have knowledge in SQL database and basic knowledge in non-relational database with MongoDB.
+  I am studying and using the ecosystem of NodeJS, ReactJS, React Native and Typescript technologies. I study Full Stack development, but my strong point is Backend with Nodejs and Express, I also have knowledge in SQL database (PostgreSQL and MySQL) and basic knowledge in non-relational database with MongoDB.
+
+My main language: Javascript.
+
+Formation: Technical course in Systems Development by ETEC.
 
 <p align="center">
     <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="20 "height="20"/>
