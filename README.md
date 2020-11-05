@@ -17,9 +17,7 @@ Backend developer Nodejs.
 </p>
 
   I am studying and using the ecosystem of NodeJS, ReactJS, React Native and Typescript technologies. I study Full Stack development, but my focus is Backend with Nodejs, I also have knowledge in SQL database (PostgreSQL and MySQL) and basic knowledge in non-relational database with MongoDB.
-
-My main language: Javascript.
-
+  
 Formation: Technical course in Systems Development by ETEC.
 
 <p align="center">
