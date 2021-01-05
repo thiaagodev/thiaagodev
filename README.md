@@ -20,12 +20,6 @@ Backend Developer | Node.js
   
 Formation: Technical course in Systems Development by ETEC.
 
-<p align="center">
-    <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" alt="javascript"  width="20 "height="20"/>
-    <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"  width="20 "height="20"/>
-    <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="reactjs"  width="20 "height="20"/>
-    <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript"  width="20 "height="20"/>
-</p>
 
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev&theme=dark" alt="thiaagodev" />
