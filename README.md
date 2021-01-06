@@ -1,6 +1,7 @@
 # Thiago Ferreira
 
-Backend Developer | Node.js
+
+Programmer and technology enthusiast.
 
 <p align="left">
  <a href="https://twitter.com/thiaagodev" target="blank">
@@ -16,10 +17,8 @@ Backend Developer | Node.js
   </a>
 </p>
 
- I am studying and improving myself in the Node.js ecosystem. I have a general knowledge in front-end with React, but my focus is the Backend development with Nodejs, mainly the development of REST API's using the main and most modern Node frameworks and libraries. I also have knowledge in SQL database (PostgreSQL and MySQL) and basic knowledge in non-relational database with MongoDB. I am constantly looking for knowledge to improve my skills and learn new things to become a good technology professional.
-  
-Formation: Technical course in Systems Development by ETEC.
 
+I am constantly looking for knowledge to improve my skills and learn new things to become a good technology professional.
 
 <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev&theme=dark" alt="thiaagodev" />
