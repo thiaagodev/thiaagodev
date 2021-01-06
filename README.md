@@ -11,5 +11,3 @@ Programmer and technology enthusiast.
     />
   </a>
 </p>
-
-I am constantly looking for knowledge to improve my skills and learn new things to become a good technology professional.
