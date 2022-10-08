@@ -6,7 +6,6 @@ Programmer and technology enthusiast.
 <div>
   <a href="https://github.com/thiaagodev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaagodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaagodev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
    
 <div style="display: inline_block"><br>
